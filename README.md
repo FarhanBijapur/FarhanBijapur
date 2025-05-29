@@ -12,11 +12,6 @@ I’m building an AI agent to help guide people in their career paths. Always ex
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FarhanBijapur&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanBijapur&theme=dark&hide_border=false&layout=compact)
 
-## 📈 Contribution Summary
-![](https://github-contribution-stats.vercel.app/api/?username=FarhanBijapur)
-
-<!-- Metrics plugin -->
-![Metrics](https://github.com/FarhanBijapur/FarhanBijapur/blob/main/github-metrics.svg)
 
 
 ## 🏆 GitHub Trophies
