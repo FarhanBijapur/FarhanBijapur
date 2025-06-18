@@ -12,7 +12,7 @@ I’m building an AI agent to help guide people in their career paths. Always ex
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FarhanBijapur&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanBijapur&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=FarhanBijapur&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanBijapur&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
