@@ -21,6 +21,7 @@ I’m building an AI agent to help guide people in their career paths. Always ex
 
 
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FarhanBijapur&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
