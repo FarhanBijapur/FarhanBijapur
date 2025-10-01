@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m building an AI agent to help guide people in their career paths. Always excited to collaborate on projects in Gen AI and AR/VR — I love exploring new tech frontiers!<br>Right now, I’m diving deep into AI fundamentals, advanced AI/ML concepts, and real-world applications of large language models.<br>I’m especially interested in prompt engineering, vector databases, and how tech startups innovate in these spaces.<br>Feel free to reach out if you want to connect or work together!
+I’m building an AI agent for personlized study plans. Always excited to collaborate on projects in Gen AI and AR/VR — I love exploring new tech frontiers!<br>Right now, I’m diving deep into AI fundamentals, advanced AI/ML concepts, and real-world applications of large language models.<br>I’m especially interested in prompt engineering, vector databases, and how tech startups innovate in these spaces.<br>Feel free to reach out if you want to connect or work together!
 
 
 ## 🌐 Socials:
